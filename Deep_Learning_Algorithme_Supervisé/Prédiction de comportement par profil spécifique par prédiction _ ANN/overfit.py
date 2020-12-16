@@ -8,7 +8,7 @@
 # Le deuxième ANN utilise Dropout pour réduire ce problème.
 # La précision d'entraînement est plus faible (90%) et 
 # la précision de test a augmenté (à 85%)
-# On a toujours un problème de surentraînement, mais bien mondre.
+# On a toujours un problème de surentraînement, mais bien moindre.
 
 # Import libraries
 import pandas as pd
